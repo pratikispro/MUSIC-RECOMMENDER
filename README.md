@@ -30,8 +30,8 @@ Dataset
 The system uses a dataset of songs, encompassing attributes such as genre, artist, album, user ratings, and play counts to personalize recommendations effectively.
 
 ## How It Works
-**Data Preprocessing**: Data is cleaned, encoded, and normalized to ensure quality input for the model.
-**Model Training**: The chosen model is trained on user interaction data to predict user preferences.
-**Recommendation Generation**: For a given user's listening history, the model suggests songs that align with their taste.
-**Evaluation**: Model performance is tested and fine-tuned to optimize recommendation accuracy.
-**Streamlit Interface**: The frontend hosted on Streamlit enables easy access to recommendations and enhances user interaction.
+- **Data Preprocessing**: Data is cleaned, encoded, and normalized to ensure quality input for the model.
+- **Model Training**: The chosen model is trained on user interaction data to predict user preferences.
+- **Recommendation Generation**: For a given user's listening history, the model suggests songs that align with their taste.
+- **Evaluation**: Model performance is tested and fine-tuned to optimize recommendation accuracy.
+- **Streamlit Interface**: The frontend hosted on Streamlit enables easy access to recommendations and enhances user interaction.
